@@ -1,0 +1,7 @@
+AddressTool
+- Contract vs normal address
+
+Check isPacking address
+isPay2ScriptHashAddress
+checkPublicKeyHash
+getStringAddressByBytes
